@@ -12,3 +12,9 @@ def mul
 puts 2-2
 
 end
+
+def div
+
+puts 2/2
+
+end
